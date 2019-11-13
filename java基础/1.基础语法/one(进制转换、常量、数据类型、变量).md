@@ -71,6 +71,14 @@ Java的数据类型分为两大类：
 |    字符型    |     char     | 2个字节  |        0-65536         |
 |   布尔类型   |   boolean    | 1个字节  |       true,false       |
 
+```
+基本数据类型
+	整数型 byte、short、int、long
+	浮点型 float、double
+	字符型 char
+	布尔型 boolean
+```
+
 ​	`Java中的默认类型：整数类型是int、浮点类型是double`
 
 ### 4、变量的定义
