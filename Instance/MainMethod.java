@@ -1,3 +1,7 @@
+/**
+ *main方法
+ */
+
 package com.tarena.case01; //包名
 
 public class MyFirstJava {
